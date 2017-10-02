@@ -1,0 +1,22 @@
+{
+  "name": "angularproject",
+  "version": "0.1.0",
+  "description": "Project Angular 2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subangkit/angular2-project.git"
+  },
+  "keywords": [
+    "angular2"
+  ],
+  "author": "subangkit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subangkit/angular2-project/issues"
+  },
+  "homepage": "https://github.com/subangkit/angular2-project#readme"
+}
