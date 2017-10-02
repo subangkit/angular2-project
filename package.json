@@ -1,7 +1,4 @@
 {
-  "name": "angularproject",
-  "version": "0.0.0",
-  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -47,5 +44,20 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.3.3"
-  }
+  },
+  "version": "0.1.0",
+  "description": "Project Angular 2 ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subangkit/angular2-project.git"
+  },
+  "keywords": [
+    "angular2"
+  ],
+  "author": "subangkit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subangkit/angular2-project/issues"
+  },
+  "homepage": "https://github.com/subangkit/angular2-project#readme"
 }
